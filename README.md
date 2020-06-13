@@ -1,8 +1,8 @@
 # Covid-19-Map-Status
 
-<h2>Covid-19 pandemic status displayed via OpenStreetMap, using Api data source https://wuhan-coronavirus-api</h2>
+<p>Covid-19 pandemic status displayed via OpenStreetMap, using Api data source https://wuhan-coronavirus-api</p>
 
-<img src="https://github.com/teonett/Gerador-Numeros-Loteria/blob/master/img/preview.png">
+<img src="https://github.com/teonett/Covid-19-Map-Status/blob/master/img/preview.png">
 
 <h4>Copyright (C) 2020 Jose Teotonio (teonett@gmail.com)</h4>
 
